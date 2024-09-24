@@ -1,4 +1,4 @@
-## Mabuhay! 👋
+# Mabuhay! 👋
 
 <!--
 **rjcculaway/rjcculaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 My name is Jotham. I'm a 🖥️ computer scientist and a multidisciplinary 🎨 artist based in the 🇵🇭 Philippines. I graduated _summa cum laude_ at the University of the Philippines Los Baños.
 
-My favortite medium is 📷 photography, I often use the aesthetics of my time to express myself. As a computer scientist, I am primarily interested in computer graphics and light transport.
+My favortite medium is 📷 photography, and I often use the aesthetics of my time to express myself. As a computer scientist, I am primarily interested in computer graphics and light transport.
 
 I've worked with Dashlabs and interned at the Visual Media Lab in KAIST. I was previously an instructor at the Institute of Computer Science in the University of the Philippines.
 
-I aspire to be a graphics researcher and engineer, a best-selling artist, and a game developer all rolled into one!
+I aspire to be a graphics researcher and engineer, a best-selling artist, and a game developer all rolled into one! I am currently learning things from the bottom-up— think **Vulkan**, **real-time graphics**, **AI**, **engine programming** and **game design**! If we have the same interests, feel free to connect! 
 
-Have a look at my projects. Or you can contact me via email.
+You can a look at my projects here at GitHub or in my [personal website](https://renejotham-dev.vercel.app/).
