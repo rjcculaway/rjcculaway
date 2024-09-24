@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mabuhay! 👋
 
 <!--
 **rjcculaway/rjcculaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Jotham. I'm a 🖥️ computer scientist and a multidisciplinary 🎨 artist based in the 🇵🇭 Philippines. I graduated _summa cum laude_ at the University of the Philippines Los Baños.
+
+My favortite medium is 📷 photography, I often use the aesthetics of my time to express myself. As a computer scientist, I am primarily interested in computer graphics and light transport.
+
+I've worked with Dashlabs and interned at the Visual Media Lab in KAIST. I was previously an instructor at the Institute of Computer Science in the University of the Philippines.
+
+I aspire to be a graphics researcher and engineer, a best-selling artist, and a game developer all rolled into one!
+
+Have a look at my projects. Or you can contact me via email.
