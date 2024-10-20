@@ -23,4 +23,4 @@ I've worked with Dashlabs and interned at the Visual Media Lab in KAIST. I was p
 
 I aspire to be a graphics researcher and engineer, a best-selling artist, and a game developer all rolled into one! I am currently learning things from the bottom-up— think **Vulkan**, **real-time graphics**, **AI**, **engine programming** and **game design**! Currently, I am building my own graphics renderer and I have a paper submission on the way! If we have the same interests, feel free to connect! 
 
-You can have a look at my projects here at GitHub or in my [personal website](https://renejotham-dev.vercel.app/).
+You can have a look at my projects here at GitHub or in my [personal website](https://renejotham.dev/).
